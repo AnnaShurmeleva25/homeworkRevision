@@ -4,4 +4,4 @@ public class Exercise1 {
         int last = a % 10;
         System.out.println(last);
     }
-    }
+}
